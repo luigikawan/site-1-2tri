@@ -1,0 +1,54 @@
+body{
+  background-color: rgb(255, 148, 148);
+}
+
+.frango {
+border-color: black;
+border-style: inset;
+border-width: 5px;
+margin-left: 10;
+text-align: center;
+
+}
+
+.menu {
+    background-color: rgb(226, 43, 119);
+    border-radius: 50px;
+    text-align: center;
+    color: black;
+    font-size: 150%;
+    font-family: Arial, Helvetica, sans-serif
+  
+    
+}
+
+.carne {
+border-color: black;
+border-style: inset;
+border-width: 5px;
+margin-left: 10;
+text-align: center;
+
+ 
+ }
+
+.moda{
+border-color: black;
+border-style: inset;
+border-width: 5px;
+margin-left: 10;
+text-align: center;
+}
+
+
+.ima1{
+  align-items: center;
+  border-width: 15px;
+  margin-inline: 38%;
+}
+
+.ima2{
+  align-items: center;
+  border-width: 15px;
+  margin-inline: 38%;
+}
